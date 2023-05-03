@@ -1,0 +1,8 @@
+C:\Projeto Cs\XadrezConsole\XadrezConsole\obj\Debug\XadrezConsole.csproj.AssemblyReference.cache
+C:\Projeto Cs\XadrezConsole\XadrezConsole\obj\Debug\XadrezConsole.csproj.SuggestedBindingRedirects.cache
+C:\Projeto Cs\XadrezConsole\XadrezConsole\obj\Debug\XadrezConsole.csproj.CoreCompileInputs.cache
+C:\Projeto Cs\XadrezConsole\XadrezConsole\bin\Debug\XadrezConsole.exe.config
+C:\Projeto Cs\XadrezConsole\XadrezConsole\bin\Debug\XadrezConsole.exe
+C:\Projeto Cs\XadrezConsole\XadrezConsole\bin\Debug\XadrezConsole.pdb
+C:\Projeto Cs\XadrezConsole\XadrezConsole\obj\Debug\XadrezConsole.exe
+C:\Projeto Cs\XadrezConsole\XadrezConsole\obj\Debug\XadrezConsole.pdb
